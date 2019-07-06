@@ -1,1 +1,1 @@
-# easy_peasy_level_squeezy
+https://leetcode.com/problemset/all/
